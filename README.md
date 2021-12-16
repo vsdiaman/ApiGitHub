@@ -16,8 +16,6 @@ Projeto para consumir uma api de do github para obter dados do perfil, repositor
   <img src="https://github.com/vsdiaman/ApiGitHub/blob/main/api.gif" alt="demo-web" height="425">
 </div>
 
-To see the **web**, click here: [Go Site](https://upbeat-shirley-3845d7.netlify.app/)<br />
-
 
 ## 🚀 Technologies
 
