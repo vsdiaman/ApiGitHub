@@ -13,7 +13,7 @@ Projeto para consumir uma api de do github para obter dados do perfil, repositor
 ---
 ## 🥳 Demonstração
 <div align="center" >
-  <img src="https://github.com/vsdiaman/TesteLeadster/blob/main/gitLeadster.gif" alt="demo-web" height="425">
+  <img src="https://github.com/vsdiaman/ApiGitHub/blob/main/apigithub.gif" alt="demo-web" height="425">
 </div>
 
 To see the **web**, click here: [Go Site](https://upbeat-shirley-3845d7.netlify.app/)<br />
