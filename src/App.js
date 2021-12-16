@@ -1,5 +1,10 @@
 import RoutesRoute from "./Routes";
+import { ContextProvider } from "./context";
 
-const App = () => <RoutesRoute />;
+const App = () => (
+  <ContextProvider>
+    <RoutesRoute />
+  </ContextProvider>
+);
 
 export default App;
